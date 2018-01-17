@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "FORMMASTER",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "4.5.4",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,9 @@
         "#2e2e2e"
       ]
     },
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
